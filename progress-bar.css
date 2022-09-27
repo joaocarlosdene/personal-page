@@ -81,8 +81,8 @@ body {
 }
 
 .progress {
-  -webkit-animation: loader 2s ease infinite;
-          animation: loader 2s ease infinite;
+  -webkit-animation: loader 4s ease infinite;
+          animation: loader 4s ease infinite;
           background: rgb(2,0,36);
           background: linear-gradient(83deg, rgba(2, 0, 36, 0.596) 0%, rgba(82, 33, 155, 0.507) 66%, rgba(0, 213, 255, 0.616) 100%);
   color: #fff;
